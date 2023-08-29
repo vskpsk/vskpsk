@@ -1,9 +1,4 @@
 # VKSPKS
-C# / Python devolper
-
-
-
-I like apples!
-
+## C# / Python / Lua
 #
 discord: vasek-san
