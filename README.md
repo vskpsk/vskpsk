@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Creating bugs since 2020<br>I'm currently learning rust<br>Fun fact: i dont like fun facts...</p>
+<p align="left">Creating bugs since 2020<br>I'm currently learning Gtk#<br>Fun fact: i dont like fun facts...</p>
 
 ###
 
