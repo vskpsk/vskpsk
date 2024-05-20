@@ -1,20 +1,8 @@
 <h1 align="left">Hello, Space!</h1>
 
-###
+A320!
 
-<p align="left">My name is vasek!</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">Creating bugs since 2020<br>I'm currently learning Gtk#<br>Fun fact: i dont like fun facts...</p>
-
-###
-
-<h2 align="left">Skills</h2>
+<h2 align="left">Things:</h2>
 
 ###
 
